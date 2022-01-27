@@ -1,0 +1,1 @@
+This is a collection of things I've found useful in development and are easily transferable between projects.
